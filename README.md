@@ -4,7 +4,7 @@
 
 
 ### Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>  
-I'm Dev, a Full Stack Developer from Jaipur
+I'm Dev, Full Stack Developer from Jaipur
 
 - 🔭 &nbsp;I’m currently building my own SaaS platform
 - 🌱 &nbsp;Crafting seamless digital experiences with Next.js
